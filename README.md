@@ -20,7 +20,7 @@ Here is a summary of my impact and the technologies I use most frequently:
 
 This graph represents my commit activity transformed into the classic game:
 
-![Snake animation](https://raw.githubusercontent.com/Rafa-0105/About-Me/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rafa-0105/About-Me/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
