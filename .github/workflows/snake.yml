@@ -2,10 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Rodar a cada 24 horas
     - cron: "0 0 * * *"
   workflow_dispatch:
-  # Rodar a cada push na branch main
   push:
     branches:
     - main
@@ -13,22 +11,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Adicionando permissões explícitas no código
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # Seu nome de usuário do GitHub
           github_user_name: Rafa-0105
-          # As imagens que serão geradas
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
