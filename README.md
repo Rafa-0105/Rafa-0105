@@ -3,7 +3,10 @@
   
   <h1> 🚀 Rafael Gambin </h1> 
   <p><b>Full Stack Developer | AI & RPA Specialist</b></p>
-  <img src="https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Microsoft_Certified-AZ--900-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="AZ-900 Certified" />
+
+  <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-gambin)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafa-0105)
@@ -15,22 +18,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks:**
+**Languages, Frameworks & Tools:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
-</p>
-
-**Infra & Tools:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,dotnet,cs,py,mysql,postgres,docker,azure,github,vscode&perline=13" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -74,4 +66,4 @@ This graph represents my commit activity transformed into the classic game:
 
 ---
 
-> "The secret of the Lord is with them that fear Him." ✨
+> "The secret of the Lord is with them that fear Him." Psalm 25:14✨
