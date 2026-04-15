@@ -53,7 +53,7 @@
 ### 📩 Get in Touch
 
 <p align="left">
-  <a href="mailto:rafael.gambin@nextvation.com.br">
+  <a href="mailto:rafaelgambinrocha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
